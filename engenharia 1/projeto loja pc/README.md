@@ -56,6 +56,7 @@ Exemplo de Uso
 Um exemplo prático de uso do projeto está disponível no arquivo Main.java. Nesse exemplo, alguns computadores são cadastrados na loja Pichau, e são feitas buscas com base em especificações e gabinetes.
 
 abaixo o diagrama de classes do projeto
+
 ![UML](UML.png)
 
 

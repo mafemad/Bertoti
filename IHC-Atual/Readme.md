@@ -21,3 +21,12 @@ o GIthub é um otimo exemplo de como a heuristica 7 deve ser aplicada, possui a 
 
 ![](Captura%20de%20tela%202024-02-28%20100552.png)
 um bom exemplo de uma pagina de erro, atendendo a heuristica 1 ,6 e 9, mostra ao usuario onde ele esta, o que ocorreu, sugere como resolver e fornece as informações e opções necessaria para tal usando uma linguagem mais proxima do usuario. 
+
+![](inova.png)
+uma plataforma confusa, contendo muitas opções para o usuário selecionar, onde muitas delas acabam levando para o mesmo lugar, fazendo com que as heuristicas 1,4,6 e 8. não tendo uma visibilidade clara de onde o usuario se encontra, não tendo um padrão consistente no site, quebrando a ideia de reconhecer ao inves de memorizar e por ultimo possuindo um design muito poluído.
+
+![](netflix.png)
+um bom exemplo de  heurísticas sendo corretamente implementadas, o uso de icones que ja são padrão, como o caso da lupa para buscar, segue a ideia da segunda heuristica que diz que deve existir relação entre o sistema e mundo real, também existe a liberdade do usuario como diz a heuristica 3, onde o usuario pode parar um episódio no meio e retornar para a parte onde parou a qualquer instante, além disso tudo segue um design minimalista como prega a heuristica 8.
+
+![](worlde.png)
+wordle se tornou um dos jogos mais famosos nos ultimos tempos e, não atoa, segue as heuristicas com coerencia, possuindo um desgin muito simples como diz a heuristica 8 e liberdade para o usuário digitar a palavra que quiser, apagar ou mudar uma letra especifica como diz a heuristca 4. Segue também a ideia apresentada na heuristica 5, com o fato de nao poder colocar palavras nao existentes ou so um monte de letras aleatorias. A heuristca 9 é abordada de um modo um pouco diferente, ao inves de ajudar com erros a ideia é implementada na mecanica do jogo, onde cada letra mostra se esta correta ou não.  

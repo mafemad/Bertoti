@@ -1,0 +1,1 @@
+![uml](../UML/Singleton-UML.png)
